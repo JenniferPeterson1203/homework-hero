@@ -1,12 +1,31 @@
-# React + Vite
+# Homework Hero
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Homework Hero is a React app built with Vite, designed to help students (like my daughter) keep track of homework assignments, especially paper handouts that often get forgotten. This app aims to bridge the gap between physical homework and digital reminders by providing a simple, user-friendly platform to manage, organize, and remember homework tasks.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
 
-## Expanding the ESLint configuration
+- **React** — for building the UI components  
+- **Vite** — for fast, lightweight development and build tooling  
+- **ESLint** — for maintaining code quality and consistency  
+- **Express (backend)** — to handle API requests (if applicable)  
+- **PostgreSQL** — as the database (if applicable)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Features (Planned / In Progress)
+
+- Add, edit, and delete homework assignments  
+- Demo user with sample homework data to try the app without signing up  
+- User authentication and authorization (future goal)  
+- Notifications or reminders for due dates  
+- Mobile-friendly and responsive design
+
+---
+
+## Getting Started
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/JenniferPeterson1203/homework-hero.git
